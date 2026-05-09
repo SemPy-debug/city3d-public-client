@@ -2,7 +2,7 @@
 
 ## The license check fails
 
-City3D requires internet access to `https://city3d-license-proxy.onrender.com`. The server uses online UTC time, so local Windows clock changes do not renew or extend trials.
+City3D requires internet access for the online license check. City3D uses server time, so local Windows clock changes do not renew or extend trials.
 
 ## The public trial says the machine limit is reached
 
