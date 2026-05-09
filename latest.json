@@ -1,16 +1,16 @@
 {
   "app": "City3D",
-  "version": "2026.5.17",
-  "release_tag": "v2026.5.17-public-trial",
+  "version": "2026.5.18",
+  "release_tag": "v2026.5.18-public-trial",
   "license_id": "city3d-public-7day-3pc",
   "license": "public-trial",
   "trial_days": 7,
   "max_machines": 3,
   "server_url": "https://city3d-license-proxy.onrender.com",
   "support_email": "amvrazis.s@gmail.com",
-  "asset": "City3D-public-trial-2026.5.17.zip",
-  "download_url": "https://github.com/SemPy-debug/city3d-public-client/releases/download/v2026.5.17-public-trial/City3D-public-trial-2026.5.17.zip",
-  "sha256": "940f3db2daa1d3d9ee54161b54a41a26753992c838ede67d36e95add8be159d3",
-  "size_bytes": 437560932,
-  "updated_at": "2026-05-09T16:12:05.302944Z"
+  "asset": "City3D-public-trial-2026.5.18.zip",
+  "download_url": "https://github.com/SemPy-debug/city3d-public-client/releases/download/v2026.5.18-public-trial/City3D-public-trial-2026.5.18.zip",
+  "sha256": "ce0ca00ee4db463fad0c6c9cacc5b8c690165040b728438202dd5c47de662a5b",
+  "size_bytes": 441196612,
+  "updated_at": "2026-05-09T20:38:22.908023Z"
 }
