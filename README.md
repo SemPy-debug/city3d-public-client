@@ -8,7 +8,7 @@ It is designed for real estate, architecture, planning, surveying, development, 
 
 Download the current Windows trial ZIP from the latest release:
 
-[City3D-public-trial-2026.5.14.zip](https://github.com/SemPy-debug/city3d-public-client/releases/download/v2026.5.14-public-trial/City3D-public-trial-2026.5.14.zip)
+[City3D-public-trial-2026.5.16.zip](https://github.com/SemPy-debug/city3d-public-client/releases/download/v2026.5.16-public-trial/City3D-public-trial-2026.5.16.zip)
 
 Machine-readable release metadata is available in [`latest.json`](latest.json).
 
@@ -21,6 +21,7 @@ Machine-readable release metadata is available in [`latest.json`](latest.json).
 - Inspect surrounding road and building context with visual evidence where available.
 - Use the completed export as a project record, client discussion pack, or feasibility starting point.
 - Create separate follow-up reports from the completed project data, such as summaries, memos, tables, or document drafts.
+- Add small customer-owned terminal extensions during evaluation, such as custom summaries, map overlays, CSV/Word/PDF exports, or site-specific helper commands.
 
 ## Trial License
 
@@ -70,7 +71,7 @@ When a new version is available, City3D prints an update notice in the terminal.
 
 The updater downloads the release ZIP, verifies the SHA256 checksum, replaces files in the same folder you launched from, preserves your local `config\license.env`, preserves local license status, and reopens `City3D.exe`.
 
-Current version: `2026.5.14`
+Current version: `2026.5.16`
 
 ## Troubleshooting
 
