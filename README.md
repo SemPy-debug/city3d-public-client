@@ -8,7 +8,7 @@ It is designed for real estate, architecture, planning, surveying, development, 
 
 Download the current Windows trial ZIP from the latest release:
 
-[City3D-public-trial-2026.5.19.zip](https://github.com/SemPy-debug/city3d-public-client/releases/download/v2026.5.19-public-trial/City3D-public-trial-2026.5.19.zip)
+[City3D-public-trial-2026.5.19-20260513_134719.zip](https://github.com/SemPy-debug/city3d-public-client/releases/download/v2026.5.19-public-trial/City3D-public-trial-2026.5.19-20260513_134719.zip)
 
 Machine-readable release metadata is available in [`latest.json`](latest.json).
 
